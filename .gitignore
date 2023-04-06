@@ -155,6 +155,7 @@
 /git-show-index
 /git-show-ref
 /git-sparse-checkout
+/git-splice
 /git-stage
 /git-stash
 /git-status
